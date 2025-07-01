@@ -1,5 +1,5 @@
 <h1 align="center"> Mountain Climbing Creatures </h1>
-----------------
+
 
 ## Introduction
 The goal of this project is to adapt the existing evolutionary algorithm so the creatures can
